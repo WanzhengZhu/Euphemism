@@ -10,6 +10,7 @@ This repo is the Python 3 implementation of __Self-Supervised Euphemism Detectio
 - [Requirements](#Requirements)
 - [Data](#Data)
 - [Code](#Code)
+- [Acknowledgement](#Acknowledgement)
 - [Citation](#Citation)
 
 
@@ -45,7 +46,7 @@ __Sample__:
 - This Sample dataset is only for you to play with the code and it does not represent any reliable results. 
 
 
-## Code:
+## Code
 ### 1. Fine-tune the BERT model. 
 Please refer to [this link from Hugging Face](https://github.com/huggingface/transformers/tree/master/examples/language-modeling) to fine-tune a BERT on a raw text corpus.
 
@@ -61,6 +62,10 @@ Please go to `Main.py` to find out their meanings.
 
 ### Baselines:
 Please refer to `baselines/README.md`. 
+
+
+## Acknowledgement
+We use the code [here](https://github.com/prakashpandey9/Text-Classification-Pytorch) for the text classification in Pytorch. 
 
 
 ## Citation
