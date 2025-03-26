@@ -29,7 +29,7 @@ pip install -r requirements.txt
 Due to the license issue, we will not distribute the dataset ourselves, but we will direct the readers to their respective sources.  
 
 __Drug__: 
-- _Raw Text Corpus_: Please request the raw text corpus --- `reddit.csv` from Wanzheng Zhu (wz6@illinois.edu) or Professor Nicolas Christin.
+- _Raw Text Corpus_: Please request the raw text corpus --- `reddit.csv` from Wanzheng Zhu (zhuw0006@e.ntu.edu.sg) or Professor Nicolas Christin.
 - _Ground Truth_: we summarize the drug euphemism ground truth list (provided by the DEA Intelligence Report -- [Slang Terms and Code Words: A Reference for Law Enforcement Personnel](https://www.dea.gov/sites/default/files/2018-07/DIR-022-18.pdf)) in `data/euphemism_answer_drug.txt` and `data/target_keywords_drug.txt`. 
 
 __Weapon__: 
